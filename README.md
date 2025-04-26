@@ -15,7 +15,7 @@ http://your-host.com/reverseshell.php
 
 
 📸 **Example Screenshot:**  
-![Upload Page](upload-your-photo-link-here)
+![Upload Page](https://github.com/mrTr1cky/linux_priv_Guid-/blob/main/name.png)
 
 ---
 
@@ -33,7 +33,7 @@ nc -lnvp 1337
 - Input your **public IP address** and the **port** (example: 1337) inside the form of `reverseshell.php`.
 
 📸 **Example Screenshot:**  
-![Enter IP/Port](enter-ip-port-photo-link-here)
+![Enter IP/Port](https://github.com/mrTr1cky/linux_priv_Guid-/blob/main/exploit.png)
 
 ---
 
